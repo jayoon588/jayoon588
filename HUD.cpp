@@ -1,6 +1,6 @@
 /**
  * @file HUD.cpp
- * @author Evan Goldrick (egoldric@uwo.ca)
+ * @author Jacob Yoon jyoon88@uwo.ca
  * @brief Implementation of HUD
  * @version 0.1
  * @date 2021-11-15
